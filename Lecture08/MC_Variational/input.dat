@@ -1,0 +1,13 @@
+0.81
+0.65
+0.
+8.5
+100
+10000
+
+  ReadInput >> mean;
+  ReadInput >> sigma;
+  ReadInput >> x_start;
+  ReadInput >> width;
+  ReadInput >> nblk;
+  ReadInput >> nstep;

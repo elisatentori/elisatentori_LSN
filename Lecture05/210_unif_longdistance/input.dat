@@ -1,0 +1,21 @@
+20.
+-20.
+-100.
+0
+1
+0.75614
+0.75614
+0.75614
+1
+100000
+
+  ReadInput >> x_start;
+  ReadInput >> y_start;
+  ReadInput >> z_start;
+  ReadInput >> orbital;
+  ReadInput >> Tdistr;
+  ReadInput >> x_width;
+  ReadInput >> y_width;
+  ReadInput >> z_width;
+  ReadInput >> nblk;
+  ReadInput >> nstep;

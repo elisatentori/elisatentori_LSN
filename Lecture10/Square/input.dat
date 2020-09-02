@@ -1,0 +1,17 @@
+32
+100
+100
+0.1
+0.6
+1.
+0.005
+
+  ReadInput >> ncity;
+  ReadInput >> npop;
+  ReadInput >> nstep;
+  ReadInput >> m_mut;
+  ReadInput >> m_cross;
+  ReadInput >> temp;
+  ReadInput >> dT;
+
+

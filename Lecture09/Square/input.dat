@@ -1,0 +1,11 @@
+32
+100
+20000
+0.1
+0.6
+
+  ReadInput >> ncity;
+  ReadInput >> npop;
+  ReadInput >> nstep;
+  ReadInput >> m_mut;
+  ReadInput >> m_cross;
