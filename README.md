@@ -1,4 +1,3 @@
-Numerical Simulation Laboratory
-University of Milan
-Stud. Elisa Tentori
+Numerical Simulation Laboratory – 
+University of Milan – 
 Prof. Davide Emilio Galli
