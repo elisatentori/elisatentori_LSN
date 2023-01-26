@@ -1,6 +1,6 @@
-Excercises Uploaded for the Exam:
+Excercises Uploaded for the Exam 'Numerical Simulation Laboratory'
 
-Numerical Simulation Laboratory – Prof. Davide Emilio Galli, Physics Department, University of Milan 
+of Prof. Davide Emilio Galli, Physics Department, University of Milan 
 
 _________________________
 
