@@ -19,3 +19,59 @@ FOLDER STRUCTURE:
 - Jupyter files from _LSN_Exercises_01.ipynb_ to _LSN_Exercises_12.ipynb_ present the analyses of results for excercises of each lesson.
 
 _________________________
+
+Index of Topics:
+
+1. Central Limit Theorem
+   - Pseudo random numbers generator
+   - Intro to blocks integration
+   - Central Limit Theorem and attractors
+   - Buffon’s experiment
+
+2. Importance sampling
+   - Importance sampling
+   - 3D Random Walks (RW) on a cubic lattice and in the continuum
+
+3. Plain vanilla option pricing
+   - Brownian and Geometric Brownian Motions (BM and GBM)
+   - Black Sholes analitical solution
+   - Sampling directly the final asset price from GBM and discretized GBM
+
+4. Molecular Dynamics (MD)
+   - N particles system Thermalization
+   - Monte Carlo MD simulations via a Lennard-Jones model of Argon in different states conditions
+
+5. Hydrogen Atom radius expectation value
+   - Metropolis algorithm used to sample H atom's wave function for 1s and 2p, to calculate expectation values for the radius
+
+6. Ising Model
+   - Simulating Ising Model via
+      - Metropolis sampling algorithm
+      - Gibbs sampling algorithm
+     to sample:
+      - Boltzmann's weight 
+      - Main observables estimation
+
+7. Molecular Dynamics: Monte Carlo NVT
+   - Autocorrelation function (for Argon gas, solid, liquid phases)
+   - Radial distribution function (for Argon gas, solid, liquid phases)
+   - MC NVT simulations via a Lennard-Jones model of Argon
+
+8. Ground state of a single quantum particle in a one dimensional (1D) space confined by an external potential
+   - Variational Monte Carlo code for a single quantum particle in 1D which exploits the Metropolis algorithm to sample a trial wave function
+   - Computing the expectation value for the Hamiltonian
+   - Finding the parameters which minimize expectation value for the Hamiltonian
+   - PIMC/PIGS algorithms
+
+9. The Traveling Salesman Problem
+   - Genetic algorithm (GA) resolution
+   - Parallel code 
+
+10. The Traveling Salesman Problem (2)
+   - Simulated Annealing (SA) resolution
+
+11. Keras
+    - Function fitting
+
+12. CNNs adn DNNs
+    - Supervised learning
