@@ -44,13 +44,13 @@ Index of Topics:
 5. Hydrogen Atom radius expectation value
    - Metropolis algorithm used to sample H atom's wave function for 1s and 2p, to calculate expectation values for the radius
 
-6. Ising Model
+6. 1D Ising Model
    - Simulating Ising Model via
-      - Metropolis sampling algorithm
-      - Gibbs sampling algorithm
-     to sample:
-      - Boltzmann's weight 
-      - Main observables estimation
+      • Metropolis sampling algorithm
+      • Gibbs sampling algorithm
+   - Sampling
+      • Boltzmann's weight sampling
+      • Main observables estimation
 
 7. Molecular Dynamics: Monte Carlo NVT
    - Autocorrelation function (for Argon gas, solid, liquid phases)
@@ -61,11 +61,11 @@ Index of Topics:
    - Variational Monte Carlo code for a single quantum particle in 1D which exploits the Metropolis algorithm to sample a trial wave function
    - Computing the expectation value for the Hamiltonian
    - Finding the parameters which minimize expectation value for the Hamiltonian
-   - PIMC/PIGS algorithms
+   - Path integral: PIMC/PIGS algorithms for T=0/T>0
 
 9. The Traveling Salesman Problem
    - Genetic algorithm (GA) resolution
-   - Parallel code 
+   - Genetic algorithm (GA) resolution – Parallel code 
 
 10. The Traveling Salesman Problem (2)
    - Simulated Annealing (SA) resolution
@@ -73,5 +73,10 @@ Index of Topics:
 11. Keras
     - Function fitting
 
-12. CNNs adn DNNs
-    - Supervised learning
+12. Supervised learning
+    - mnist keras dataset
+    - CNNs:
+      • Loss function
+      • Optimizers
+      • Training
+      • Layers usage
