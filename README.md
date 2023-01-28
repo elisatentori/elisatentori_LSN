@@ -46,11 +46,11 @@ Index of Topics:
 
 6. 1D Ising Model
    - Simulating Ising Model via
-           • Metropolis sampling algorithm
-           • Gibbs sampling algorithm
+           (i) Metropolis sampling algorithm
+           (ii) Gibbs sampling algorithm
    - Sampling
-           • Boltzmann's weight sampling
-           • Main observables estimation
+           (i) Boltzmann's weight sampling
+           (ii) Main observables estimation
 
 7. Molecular Dynamics: Monte Carlo NVT
    - Autocorrelation function (for Argon gas, solid, liquid phases)
@@ -76,7 +76,7 @@ Index of Topics:
 12. Supervised learning
     - mnist keras dataset
     - CNNs:
-           • Loss function
-           • Optimizers
-           • Training
-           • Layers usage
+           (i) Loss function
+           (ii) Optimizers
+           (iii) Training
+           (iv) Layers usage
