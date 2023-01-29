@@ -46,22 +46,24 @@ Index of Topics:
 
 6. 1D Ising Model
    - Simulating Ising Model via
-           (i) Metropolis sampling algorithm
-           (ii) Gibbs sampling algorithm
+      (i) Metropolis sampling algorithm
+      (ii) Gibbs sampling algorithm
    - Sampling
-           (i) Boltzmann's weight sampling
-           (ii) Main observables estimation
+      (i) Boltzmann's weight sampling
+      (ii) Main observables estimation
 
 7. Molecular Dynamics: Monte Carlo NVT
    - Autocorrelation function (for Argon gas, solid, liquid phases)
    - Radial distribution function (for Argon gas, solid, liquid phases)
    - MC NVT simulations via a Lennard-Jones model of Argon
 
-8. Ground state of a single quantum particle in a one dimensional (1D) space confined by an external potential
-   - Variational Monte Carlo code for a single quantum particle in 1D which exploits the Metropolis algorithm to sample a trial wave function
+8. Quantum Monte Carlo. 
+   Ground and excited states of a single 1D quantum particle confined by an external potential:
+   - Variational Quantum Monte Carlo code for a single quantum particle in 1D which exploits the Metropolis algorithm to sample a trial wave function
    - Computing the expectation value for the Hamiltonian
    - Finding the parameters which minimize expectation value for the Hamiltonian
-   - Path integral: PIMC/PIGS algorithms for T=0/T>0
+   - Simulated Annealing
+   - Path integral: PIGS/PIMC algorithms for T=0/T>0
 
 9. The Traveling Salesman Problem
    - Genetic algorithm (GA) resolution
@@ -76,7 +78,7 @@ Index of Topics:
 12. Supervised learning
     - mnist keras dataset
     - CNNs:
-           (i) Loss function
-           (ii) Optimizers
-           (iii) Training
-           (iv) Layers usage
+      (i) Loss function
+      (ii) Optimizers
+      (iii) Training
+      (iv) Layers usage
