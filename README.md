@@ -37,7 +37,7 @@ Index of Topics:
    - Black Sholes analitical solution
    - Sampling directly the final asset price from GBM and discretized GBM
 
-4. Molecular Dynamics (MD)
+4. Molecular Dynamics (MD): Monte Carlo NVE
    - N particles system Thermalization
    - Monte Carlo MD simulations via a Lennard-Jones model of Argon in different states conditions
 
