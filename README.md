@@ -38,17 +38,18 @@ Index of Topics:
    - Sampling directly the final asset price from GBM and discretized GBM
 
 4. Molecular Dynamics (MD): Monte Carlo NVE
-   - N particles system Thermalization
-   - Monte Carlo MD simulations via a Lennard-Jones model of Argon in different states conditions
+   - N particles system Thermalization/Equilibration
+   - Monte Carlo MD simulations via a Lennard-Jones model of Argon for solid, liquid, gas Argon states  
+   - Monte Carlo MD simulations - Argon main observables estimation
 
 5. Hydrogen Atom radius expectation value
-   - Metropolis algorithm used to sample H atom's wave function for 1s and 2p, to calculate expectation values for the radius
+   - Metropolis algorithm used to sample H atom's wave function for 1s and 2p and to calculate radius expectation value
 
 6. 1D Ising Model
-   - Simulating Ising Model via
+   - Simulating Ising Model via:
       (i) Metropolis sampling algorithm
       (ii) Gibbs sampling algorithm
-   - Sampling
+   - 
       (i) Boltzmann's weight sampling
       (ii) Main observables estimation
 
