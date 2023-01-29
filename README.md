@@ -26,7 +26,7 @@ Index of Topics:
    - Pseudo random numbers generator
    - Intro to blocks integration
    - Central Limit Theorem and attractors
-   - Buffon’s experiment
+   - Buffon’s experiment simulation
 
 2. Importance sampling
    - Importance sampling
